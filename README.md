@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello, I am
+Bikram Dhami
 <!--
 **bikramdhami0100/bikramdhami0100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
