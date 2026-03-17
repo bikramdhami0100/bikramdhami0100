@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on <strong> [FWU Examination Management System] <strong/>
 
-- 🌱 I’m currently learning **C#,php**
+- 🌱 I’m currently learning ** C# and php **
 
-- 💬 Ask me about **JavaScript,Typescript,C#,MVC,ASP.NET,python,php,**
+- 💬 Ask me about **JavaScript,Typescript,C#,python,php**
 
 - 📫 How to reach me **bikramdhami334@gmail.com**
 
